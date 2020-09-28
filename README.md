@@ -12,3 +12,6 @@ To generate multiple certificates from a csv file:
 PDF format: ```go run main.go -file students.csv -type pdf```
 
 HTML format: ```go run main.go -file students.csv -type html```
+
+## Result
+![A generated certificate](https://github.com/DPICART/gencert.go/tree/master/GOLANG PROGRAMMING COURSE Certificate - PICART DAVID.png)
