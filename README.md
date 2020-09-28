@@ -14,4 +14,4 @@ PDF format: ```go run main.go -file students.csv -type pdf```
 HTML format: ```go run main.go -file students.csv -type html```
 
 ## Result
-![A generated certificate](https://github.com/DPICART/gencert.go/tree/master/GOLANG PROGRAMMING COURSE Certificate - PICART DAVID.png)
+![A generated certificate](https://github.com/DPICART/gencert.go/raw/master/GOLANG%20PROGRAMMING%20COURSE%20Certificate%20-%20PICART%20DAVID.png)
