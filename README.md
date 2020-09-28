@@ -10,4 +10,5 @@ You'll need go installed on your machine.
 To generate multiple certificates from a csv file: 
 
 PDF format: ```go run main.go -file students.csv -type pdf```
+
 HTML format: ```go run main.go -file students.csv -type html```
